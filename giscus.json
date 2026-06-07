@@ -1,5 +1,5 @@
 {
-  "origins": ["https://giscus.app"],
+  "origins": ["https://blog.recursion-link.eu.org", "pusen.appwrite.network"],
   "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"  
 }
